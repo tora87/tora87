@@ -16,9 +16,9 @@ Here are some ideas to get you started: -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tora87&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center">A Technical school student from Japan</h3>
+<h3 align="left">A Technical school student from Japan</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:comming soon...</h3>
 <p align="left">
 </p>
 
