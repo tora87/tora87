@@ -4,9 +4,8 @@
 <!-- **tora87/tora87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-
-- 🔭 I’m currently working on ...Information Technical School Student.
-- 🌱 I’m currently learning ...HTML,CSS,JavaScript,React,Next.js
+#### I am a front-end engineer in Tokyo, Japan
+- 🌱 I’m currently learning ...HTML, CSS, JavaScript, TypeScriptm React, Next.js, Vue, Nuxt.js
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,12 +13,9 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tora87&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="left">A Technical school student from Japan</h3>
-
-<h3 align="left">Connect with me:comming soon...</h3>
-<p align="left">
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tora87&theme=synthwave&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tora87&layout=compact&show_icons=true&theme=synthwave" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,10 +31,16 @@ Here are some ideas to get you started: -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React.js" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://images.ctfassets.net/fdt52x6qf2de/1MVOW9GweIGspjGTSrYgBk/7c3b3cf133c4db02b5cdd7559c3e3c93/next-js.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://ja.vuejs.org/" target="_blank" rel="bireferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/250px-Vue.js_Logo_2.svg.png" alt="vue.js" width="40" height="40" />
+  </a>
+  <a href="https://nuxt.com/" target="_blank" rel="bireferrer">
+    <img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="Nuxt.js" width="50" height="50" />
   </a>
 </p>
 
